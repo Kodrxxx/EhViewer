@@ -6,17 +6,21 @@
 
 An E-Hentai Application for Android.
 
+# Download
+
+[下载](https://github.com/NuclearVGA/EhViewer/releases/latest)
+
+[Download](https://github.com/NuclearVGA/EhViewer/releases/latest)
+
+猴子都能懂的下载方法：
+
+1、点击打开上方的下载链接
+
+2、点击 EhViewer-universal-****.apk 进行下载
 
 # Screenshot
 
 ![screenshot-01](art/screenshot-01.png)
-
-# Download
-
-[下载](https://github.com/NuclearVGA/EhViewer/releases)
-
-[Download](https://github.com/NuclearVGA/EhViewer/releases)
-
 
 # Thanks
 
@@ -38,7 +42,6 @@ Here is the libraries
 - [ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 - [Slabo](https://github.com/TiroTypeworks/Slabo)
 - [TagSoup](http://home.ccil.org/~cowan/tagsoup/)
-
 
 # License
 
